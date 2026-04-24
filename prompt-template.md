@@ -95,7 +95,7 @@ tags: [<关键标签 3-5 个>]
 
 ### 生成要求
 
-- **字数目标**：8,000–15,000 字，宁可详细不要简略
+- **字数目标**：8,000–15,000 字,宁可详细不要简略
 - **风格**：专业、具体、有数字、有细节、承认不确定性
 - **语言**：主语言用中文，技术词汇保留英文（比如 RSC、SSR、OTP 不需要翻译）
 - **事实来源**：优先基于代码和已有文档提取，推测内容明确标记 `[speculation · review needed]`
@@ -132,4 +132,4 @@ tags: [<关键标签 3-5 个>]
 
 ---
 
-© Kickoo · MIT License · [github.com/kickoo/pd-md](https://github.com/kickoo/pd-md)
+© Kickoo · MIT License · [github.com/kickoo-dev/pd-md](https://github.com/kickoo-dev/pd-md)
